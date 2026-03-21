@@ -1,4 +1,11 @@
 {
-  "checked_at": "2026-03-21T19:47:49.301261+00:00",
-  "streams": []
+  "checked_at": "2026-03-21T20:31:40.089075+00:00",
+  "streams": [
+    {
+      "slug": "stronny",
+      "name": "Stronny",
+      "platform": "twitch",
+      "url": "https://twitch.tv/stronnycuttles"
+    }
+  ]
 }
