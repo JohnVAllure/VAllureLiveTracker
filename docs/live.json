@@ -1,17 +1,11 @@
 {
-  "checked_at": "2026-03-24T22:36:14.668799+00:00",
+  "checked_at": "2026-03-24T23:04:44.959487+00:00",
   "streams": [
     {
       "slug": "immy",
       "name": "Immy",
       "platform": "twitch",
       "url": "https://twitch.tv/immybisou"
-    },
-    {
-      "slug": "mara",
-      "name": "Mara",
-      "platform": "twitch",
-      "url": "https://twitch.tv/maravespidae"
     }
   ]
 }
