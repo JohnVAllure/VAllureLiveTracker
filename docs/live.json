@@ -1,23 +1,11 @@
 {
-  "checked_at": "2026-03-26T23:02:15.350236+00:00",
+  "checked_at": "2026-03-26T23:48:26.965375+00:00",
   "streams": [
     {
       "slug": "immy",
       "name": "Immy",
       "platform": "twitch",
       "url": "https://twitch.tv/immybisou"
-    },
-    {
-      "slug": "ceru",
-      "name": "Ceru",
-      "platform": "twitch",
-      "url": "https://twitch.tv/cerufoxhound"
-    },
-    {
-      "slug": "ceru",
-      "name": "Ceru",
-      "platform": "youtube",
-      "url": "https://youtube.com/watch?v=xIZCQD0NuIM"
     }
   ]
 }
