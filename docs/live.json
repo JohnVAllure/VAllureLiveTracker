@@ -1,6 +1,12 @@
 {
-  "checked_at": "2026-04-07T19:32:54.765403+00:00",
+  "checked_at": "2026-04-07T20:26:46.994720+00:00",
   "streams": [
+    {
+      "slug": "ceru",
+      "name": "Ceru",
+      "platform": "youtube",
+      "url": "https://youtube.com/watch?v=UvSTi3p-MSc"
+    },
     {
       "slug": "mara",
       "name": "Mara",
