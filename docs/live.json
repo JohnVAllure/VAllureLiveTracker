@@ -1,12 +1,6 @@
 {
-  "checked_at": "2026-04-09T18:33:14.344030+00:00",
+  "checked_at": "2026-04-09T19:51:25.548515+00:00",
   "streams": [
-    {
-      "slug": "shibi",
-      "name": "Shibi",
-      "platform": "twitch",
-      "url": "https://twitch.tv/shibicottonbum"
-    },
     {
       "slug": "ceru",
       "name": "Ceru",
