@@ -1,4 +1,11 @@
 {
-  "checked_at": "2026-04-16T23:58:53.710688+00:00",
-  "streams": []
+  "checked_at": "2026-04-17T03:36:56.532724+00:00",
+  "streams": [
+    {
+      "slug": "quetzu",
+      "name": "Quetzu",
+      "platform": "twitch",
+      "url": "https://twitch.tv/quetzusolscale"
+    }
+  ]
 }
