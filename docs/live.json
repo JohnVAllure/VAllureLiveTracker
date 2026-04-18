@@ -1,4 +1,11 @@
 {
-  "checked_at": "2026-04-18T18:24:38.529669+00:00",
-  "streams": []
+  "checked_at": "2026-04-18T19:23:39.333501+00:00",
+  "streams": [
+    {
+      "slug": "mara",
+      "name": "Mara",
+      "platform": "twitch",
+      "url": "https://twitch.tv/maravespidae"
+    }
+  ]
 }
