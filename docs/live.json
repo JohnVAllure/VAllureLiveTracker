@@ -1,4 +1,11 @@
 {
-  "checked_at": "2026-04-29T17:07:34.574437+00:00",
-  "streams": []
+  "checked_at": "2026-04-29T18:48:38.358111+00:00",
+  "streams": [
+    {
+      "slug": "ceru",
+      "name": "Ceru",
+      "platform": "youtube",
+      "url": "https://youtube.com/watch?v=pILROkmmGxQ"
+    }
+  ]
 }
