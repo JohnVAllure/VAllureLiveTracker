@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-05-06T18:08:16.623175+00:00",
+  "checked_at": "2026-05-06T20:01:46.483183+00:00",
   "streams": [
     {
-      "slug": "ceru",
-      "name": "Ceru",
-      "platform": "youtube",
-      "url": "https://youtube.com/watch?v=u8F84Ltb_GI"
+      "slug": "mara",
+      "name": "Mara",
+      "platform": "twitch",
+      "url": "https://twitch.tv/maravespidae"
     }
   ]
 }
