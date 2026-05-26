@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-05-26T21:47:03.583076+00:00",
+  "checked_at": "2026-05-26T23:12:16.748442+00:00",
   "streams": [
     {
-      "slug": "mara",
-      "name": "Mara",
+      "slug": "phyla",
+      "name": "Phyla",
       "platform": "twitch",
-      "url": "https://twitch.tv/maravespidae"
+      "url": "https://twitch.tv/phylaeinrose"
     }
   ]
 }
