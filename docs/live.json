@@ -1,4 +1,11 @@
 {
-  "checked_at": "2026-06-07T17:21:15.953031+00:00",
-  "streams": []
+  "checked_at": "2026-06-07T18:48:41.054013+00:00",
+  "streams": [
+    {
+      "slug": "ceru",
+      "name": "Ceru",
+      "platform": "twitch",
+      "url": "https://twitch.tv/cerufoxhound"
+    }
+  ]
 }
