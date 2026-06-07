@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-06-07T21:38:43.704810+00:00",
+  "checked_at": "2026-06-07T22:46:47.147088+00:00",
   "streams": [
     {
-      "slug": "shibi",
-      "name": "Shibi",
+      "slug": "immy",
+      "name": "Immy",
       "platform": "twitch",
-      "url": "https://twitch.tv/shibicottonbum"
+      "url": "https://twitch.tv/immybisou"
     }
   ]
 }
