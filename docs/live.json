@@ -1,6 +1,12 @@
 {
-  "checked_at": "2026-06-07T22:46:47.147088+00:00",
+  "checked_at": "2026-06-08T00:11:35.594652+00:00",
   "streams": [
+    {
+      "slug": "azura",
+      "name": "Azura",
+      "platform": "twitch",
+      "url": "https://twitch.tv/azuradulait"
+    },
     {
       "slug": "immy",
       "name": "Immy",
