@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-06-11T21:00:39.390395+00:00",
+  "checked_at": "2026-06-11T22:58:55.680510+00:00",
   "streams": [
     {
-      "slug": "ceru",
-      "name": "Ceru",
+      "slug": "phyla",
+      "name": "Phyla",
       "platform": "twitch",
-      "url": "https://twitch.tv/cerufoxhound"
+      "url": "https://twitch.tv/phylaeinrose"
     }
   ]
 }
