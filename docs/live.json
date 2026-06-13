@@ -1,6 +1,12 @@
 {
-  "checked_at": "2026-06-13T20:53:05.023399+00:00",
+  "checked_at": "2026-06-13T22:06:45.211332+00:00",
   "streams": [
+    {
+      "slug": "ceru",
+      "name": "Ceru",
+      "platform": "youtube",
+      "url": "https://youtube.com/watch?v=FSFG67yO-nY"
+    },
     {
       "slug": "quetzu",
       "name": "Quetzu",
