@@ -1,11 +1,17 @@
 {
-  "checked_at": "2026-06-12T23:52:10.445643+00:00",
+  "checked_at": "2026-06-13T04:05:03.121186+00:00",
   "streams": [
     {
       "slug": "azura",
       "name": "Azura",
       "platform": "twitch",
       "url": "https://twitch.tv/azuradulait"
+    },
+    {
+      "slug": "quetzu",
+      "name": "Quetzu",
+      "platform": "twitch",
+      "url": "https://twitch.tv/quetzusolscale"
     }
   ]
 }
