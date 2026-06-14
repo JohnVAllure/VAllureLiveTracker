@@ -1,6 +1,12 @@
 {
-  "checked_at": "2026-06-14T19:49:40.938718+00:00",
+  "checked_at": "2026-06-14T21:15:42.665094+00:00",
   "streams": [
+    {
+      "slug": "immy",
+      "name": "Immy",
+      "platform": "twitch",
+      "url": "https://twitch.tv/immybisou"
+    },
     {
       "slug": "ceru",
       "name": "Ceru",
