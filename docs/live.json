@@ -1,23 +1,4 @@
 {
-  "checked_at": "2026-06-13T23:33:01.240938+00:00",
-  "streams": [
-    {
-      "slug": "ceru",
-      "name": "Ceru",
-      "platform": "youtube",
-      "url": "https://youtube.com/watch?v=FSFG67yO-nY"
-    },
-    {
-      "slug": "phyla",
-      "name": "Phyla",
-      "platform": "twitch",
-      "url": "https://twitch.tv/phylaeinrose"
-    },
-    {
-      "slug": "quetzu",
-      "name": "Quetzu",
-      "platform": "twitch",
-      "url": "https://twitch.tv/quetzusolscale"
-    }
-  ]
+  "checked_at": "2026-06-14T02:01:15.545924+00:00",
+  "streams": []
 }
