@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-06-14T22:42:21.436213+00:00",
+  "checked_at": "2026-06-14T23:53:00.209412+00:00",
   "streams": [
     {
-      "slug": "immy",
-      "name": "Immy",
+      "slug": "phyla",
+      "name": "Phyla",
       "platform": "twitch",
-      "url": "https://twitch.tv/immybisou"
+      "url": "https://twitch.tv/phylaeinrose"
     }
   ]
 }
