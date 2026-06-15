@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-06-14T23:53:00.209412+00:00",
+  "checked_at": "2026-06-15T04:45:54.374357+00:00",
   "streams": [
     {
-      "slug": "phyla",
-      "name": "Phyla",
+      "slug": "quetzu",
+      "name": "Quetzu",
       "platform": "twitch",
-      "url": "https://twitch.tv/phylaeinrose"
+      "url": "https://twitch.tv/quetzusolscale"
     }
   ]
 }
