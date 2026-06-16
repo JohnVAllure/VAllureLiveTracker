@@ -1,11 +1,17 @@
 {
-  "checked_at": "2026-06-16T22:00:33.648686+00:00",
+  "checked_at": "2026-06-16T23:48:34.796353+00:00",
   "streams": [
     {
-      "slug": "mara",
-      "name": "Mara",
+      "slug": "azura",
+      "name": "Azura",
       "platform": "twitch",
-      "url": "https://twitch.tv/maravespidae"
+      "url": "https://twitch.tv/azuradulait"
+    },
+    {
+      "slug": "immy",
+      "name": "Immy",
+      "platform": "twitch",
+      "url": "https://twitch.tv/immybisou"
     }
   ]
 }
