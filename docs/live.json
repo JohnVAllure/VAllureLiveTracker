@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-06-19T20:51:37.560073+00:00",
+  "checked_at": "2026-06-19T22:06:15.103864+00:00",
   "streams": [
     {
-      "slug": "quetzu",
-      "name": "Quetzu",
+      "slug": "immy",
+      "name": "Immy",
       "platform": "twitch",
-      "url": "https://twitch.tv/quetzusolscale"
+      "url": "https://twitch.tv/immybisou"
     }
   ]
 }
