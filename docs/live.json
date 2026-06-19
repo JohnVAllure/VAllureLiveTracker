@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-06-19T19:15:43.755065+00:00",
+  "checked_at": "2026-06-19T20:51:37.560073+00:00",
   "streams": [
     {
-      "slug": "mara",
-      "name": "Mara",
+      "slug": "quetzu",
+      "name": "Quetzu",
       "platform": "twitch",
-      "url": "https://twitch.tv/maravespidae"
+      "url": "https://twitch.tv/quetzusolscale"
     }
   ]
 }
