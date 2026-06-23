@@ -1,23 +1,4 @@
 {
-  "checked_at": "2026-06-22T23:42:56.118405+00:00",
-  "streams": [
-    {
-      "slug": "immy",
-      "name": "Immy",
-      "platform": "twitch",
-      "url": "https://twitch.tv/immybisou"
-    },
-    {
-      "slug": "phyla",
-      "name": "Phyla",
-      "platform": "twitch",
-      "url": "https://twitch.tv/phylaeinrose"
-    },
-    {
-      "slug": "quetzu",
-      "name": "Quetzu",
-      "platform": "twitch",
-      "url": "https://twitch.tv/quetzusolscale"
-    }
-  ]
+  "checked_at": "2026-06-23T01:48:42.808414+00:00",
+  "streams": []
 }
