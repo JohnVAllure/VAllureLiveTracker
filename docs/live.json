@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-06-23T21:56:56.996079+00:00",
+  "checked_at": "2026-06-23T23:14:01.060629+00:00",
   "streams": [
     {
       "slug": "immy",
@@ -8,10 +8,10 @@
       "url": "https://twitch.tv/immybisou"
     },
     {
-      "slug": "mara",
-      "name": "Mara",
+      "slug": "phyla",
+      "name": "Phyla",
       "platform": "twitch",
-      "url": "https://twitch.tv/maravespidae"
+      "url": "https://twitch.tv/phylaeinrose"
     }
   ]
 }
