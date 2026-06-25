@@ -1,4 +1,17 @@
 {
-  "checked_at": "2026-06-25T17:25:22.475232+00:00",
-  "streams": []
+  "checked_at": "2026-06-25T19:24:43.776243+00:00",
+  "streams": [
+    {
+      "slug": "ceru",
+      "name": "Ceru",
+      "platform": "twitch",
+      "url": "https://twitch.tv/cerufoxhound"
+    },
+    {
+      "slug": "mara",
+      "name": "Mara",
+      "platform": "twitch",
+      "url": "https://twitch.tv/maravespidae"
+    }
+  ]
 }
