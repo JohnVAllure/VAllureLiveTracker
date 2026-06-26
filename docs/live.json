@@ -1,11 +1,23 @@
 {
-  "checked_at": "2026-06-26T17:50:45.246395+00:00",
+  "checked_at": "2026-06-26T19:52:42.178181+00:00",
   "streams": [
     {
       "slug": "shibi",
       "name": "Shibi",
       "platform": "twitch",
       "url": "https://twitch.tv/shibicottonbum"
+    },
+    {
+      "slug": "ceru",
+      "name": "Ceru",
+      "platform": "twitch",
+      "url": "https://twitch.tv/cerufoxhound"
+    },
+    {
+      "slug": "mara",
+      "name": "Mara",
+      "platform": "twitch",
+      "url": "https://twitch.tv/maravespidae"
     }
   ]
 }
