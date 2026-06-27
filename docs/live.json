@@ -1,4 +1,11 @@
 {
-  "checked_at": "2026-06-27T18:51:22.470399+00:00",
-  "streams": []
+  "checked_at": "2026-06-27T20:09:36.224650+00:00",
+  "streams": [
+    {
+      "slug": "shibi",
+      "name": "Shibi",
+      "platform": "twitch",
+      "url": "https://twitch.tv/shibicottonbum"
+    }
+  ]
 }
